@@ -22,6 +22,21 @@ Whether you manage an online store, marketplace, or ecommerce platform, these gu
 - Ecommerce Content Strategy
 
 ---
+# Documentation
+
+## Beginner Guides
+
+- [What is Ecommerce SEO?](docs/what-is-ecommerce-seo.md)
+
+## Topics
+
+- Product SEO
+- Category Page SEO
+- Technical SEO
+- Internal Linking
+- Image SEO
+- Schema Markup
+- Core Web Vitals
 
 # Guides
 
